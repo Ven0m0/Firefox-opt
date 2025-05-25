@@ -1,0 +1,24 @@
+[submodule "patches"]
+	path = patches
+	url = https://github.com/CachyOS/CachyOS-Browser-Common.git
+[submodule "ghostery"]
+	path = ghostery
+	url = https://github.com/ghostery/user-agent-desktop.git
+[submodule "mercury"]
+	path = mercury
+	url = https://github.com/Alex313031/Mercury.git
+[submodule "Cachybrowser"]
+	path = Cachybrowser
+	url = https://github.com/CachyOS/CachyOS-Browser-Common.git
+[submodule "Waterfox"]
+	path = Waterfox
+	url = https://github.com/BrowserWorks/Waterfox.git
+[submodule "plasmafox"]
+	path = plasmafox
+	url = https://github.com/torvic9/plasmafox.git
+[submodule "openSUSE"]
+	path = openSUSE
+	url = https://github.com/openSUSE/firefox-maintenance.git
+[submodule "firedragon"]
+	path = firedragon
+	url = https://gitlab.com/garuda-linux/firedragon/builder.git
