@@ -16,6 +16,7 @@ ac_add_options --enable-64bit
 ac_add_options --enable-lto=full
 ac_add_options --enable-release
 ac_add_options --enable-rust-simd
+ac_add_options --enable-minify
 ac_add_options --enable-strip
 ac_add_options --enable-install-strip
 export STRIP_FLAGS="--strip-debug --strip-unneeded"
