@@ -10,3 +10,4 @@ https://gitlab.com/relan/fennecbuild
 
 
 - https://firefoxcss-store.github.io/
+- https://github.com/yuuqilin/FlexFox
