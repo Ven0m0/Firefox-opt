@@ -7,3 +7,6 @@ This is just a little work in progress project to see if I can optimize firefox 
 
 https://github.com/zen-browser/desktop
 https://gitlab.com/relan/fennecbuild
+
+
+- https://firefoxcss-store.github.io/
